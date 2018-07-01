@@ -6,6 +6,7 @@ guest_name = gets.chomp.capitalize  #don't forget to Capitilize the input
 
 puts "What is the name of the Party?"
 party_name = gets.chomp.capitalize
+party_name = "Best Halloween Party"
 
 puts "What is the date of the party?"
 date = gets.chomp.capitalize
