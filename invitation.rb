@@ -1,6 +1,6 @@
 # Code your prompts here!
 
-# Try starting out with puts'ing a string.
+puts "Welcome to our party planning app."
 
 puts "What is the guest's name?"
 
