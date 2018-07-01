@@ -14,6 +14,6 @@ puts "What is the name of the host?"
 host_name = gets.chomp.capitalize
 
 puts "Dear " + guest_name + ","
-puts "You are cordially invited to the " + party_name + " on " + date +". Please RSVP no later than October 30."
+puts "You are cordially invited to the " + party_name + " on " + date + ". Please RSVP no later than October 30."
 puts "Sincerely,"
 puts "Harry Potter"
